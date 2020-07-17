@@ -1,0 +1,9 @@
+C:\Users\Seth\source\repos\Betting Machine\Betting Machine\bin\Debug\Betting Machine.exe.config
+C:\Users\Seth\source\repos\Betting Machine\Betting Machine\bin\Debug\Betting Machine.exe
+C:\Users\Seth\source\repos\Betting Machine\Betting Machine\bin\Debug\Betting Machine.pdb
+C:\Users\Seth\source\repos\Betting Machine\Betting Machine\obj\Debug\Betting Machine.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Betting Machine\Betting Machine\obj\Debug\Betting_Machine.Properties.Resources.resources
+C:\Users\Seth\source\repos\Betting Machine\Betting Machine\obj\Debug\Betting Machine.csproj.GenerateResource.cache
+C:\Users\Seth\source\repos\Betting Machine\Betting Machine\obj\Debug\Betting Machine.exe
+C:\Users\Seth\source\repos\Betting Machine\Betting Machine\obj\Debug\Betting Machine.pdb
+C:\Users\Seth\source\repos\Betting Machine\Betting Machine\obj\Debug\Betting_Machine.EditField.resources
